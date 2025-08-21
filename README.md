@@ -43,7 +43,7 @@ This project is a **personal demonstration** of mobile development best practice
 ## ⚙️ Getting Started  
 
 ### Requirements  
-- Visual Studio 2022 (latest)  
+- Visual Studio (latest)  
 - .NET 8 SDK  
 
 ### Run the App  
