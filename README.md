@@ -1,6 +1,6 @@
 # 🚀 Launches History – .NET MAUI 8  
 
-A cross-platform mobile app built with **.NET MAUI 8** that displays Launches history using the official [SpaceX API](https://github.com/r-spacex/SpaceX-API).  
+A cross-platform mobile app built with **.NET MAUI 8** that displays Launches history using the official.
 
 This project is a **personal demonstration** of mobile development best practices — clean architecture (MVVM), dependency injection, testing, and modern tooling.  
 
